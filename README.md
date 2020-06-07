@@ -24,4 +24,8 @@ Some parameters can be changed inside main.py and screen_draw.py.
 There are some other stuff inside that can be tweaked, feel free to explore and modify the code and maybe improve it in any way you like.
 Some of those features are a bit broken for now and there are some noticiable bugs and glitches.
 
+![alt text](https://github.com/JoaoPito/3DVectorPython/blob/master/GIFs/2405_cubeY_20fps.gif?raw=true)
+![alt text](https://github.com/JoaoPito/3DVectorPython/blob/master/GIFs/2505_icoSphere_LoPoly2.gif?raw=true)
+![alt text](https://github.com/JoaoPito/3DVectorPython/blob/master/GIFs/2705_cube_HQ.gif?raw=true)
+*Here you can see that there are some serious glitches that need to be fixed*
 
